@@ -3,8 +3,6 @@ package com.suai;
 import java.sql.*;
 import java.util.logging.*;
 import java.util.Scanner;
-import org.postgresql.*;
-import org.postgresql.Driver;
 
 public class JDBCtest {
 
